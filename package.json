@@ -1,0 +1,23 @@
+{
+  "name": "week2chal2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "W2C2.js",
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^24.9.0"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GraceNakazibwe/Week2Challenge2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GraceNakazibwe/Week2Challenge2/issues"
+  },
+  "homepage": "https://github.com/GraceNakazibwe/Week2Challenge2#readme"
+}
